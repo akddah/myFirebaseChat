@@ -7,6 +7,7 @@
 
 ## Screenshot
 <img src="https://github.com/akddah/myFirebaseChat/blob/main/screenshots/FlutterChatDemo.gif">
+<img src="https://github.com/akddah/myFirebaseChat/blob/main/screenshots/web_hi_res_512.png">
 
 ## How to run
 * Clone this repo
